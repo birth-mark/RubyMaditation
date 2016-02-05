@@ -2,5 +2,5 @@
 
 I love :coffee:
 
-I like :dance:
+I like :dancer:
 
