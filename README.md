@@ -1,6 +1,6 @@
 # RubyMaditation
 
-I love @coffee
+I love $coffee
 
-I like @dance
+I like $dance
 
